@@ -11,7 +11,7 @@ _the app is currently only available in german_
 
 ### Examples Gifs
 #### Creation of a new recipe
-<img src="https://github.com/F-Goldmann/RezepteApp-Preview/graphics/RezepteApp_CreateRecipe.gif" alt="Create new recipe" width="360">
+<img src="https://github.com/F-Goldmann/RezepteApp-Preview/tree/main/graphics/RezepteApp_CreateRecipe.gif" alt="Create new recipe" width="360">
 
 #### Import, filter and display
-<img src="https://github.com/F-Goldmann/RezepteApp-Preview/graphics/RezepteApp_LoadRecipes.gif" alt="Load recipes" width="360">
+<img src="https://github.com/F-Goldmann/RezepteApp-Preview/tree/main/graphics/RezepteApp_LoadRecipes.gif" alt="Load recipes" width="360">
