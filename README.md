@@ -1,4 +1,4 @@
-# Preview
+# Recipe App
 _the app is currently only available in german_
 
 ### Main functions
