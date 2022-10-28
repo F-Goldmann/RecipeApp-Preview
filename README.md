@@ -1,5 +1,7 @@
 # Recipe App
-This is a short overview of the main features of my private app.  
+This is a short overview of the main features of my app.  
+The UI is developed using Jetpack Compose.
+
 If you are interested to see more feel free to reach out to me.
 
 _the app is currently only available in german_
