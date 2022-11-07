@@ -1,4 +1,4 @@
-# Recipe App
+<img src="https://github.com/F-Goldmann/RecipeApp-Summary/blob/main/graphics/RezepteAppThumbnail.jpg" alt="Thumbnail" height="360">
 This is a short overview of the main features of my app.  
 The UI is developed using Jetpack Compose.
 
