@@ -1,4 +1,4 @@
-<img src="https://github.com/F-Goldmann/RecipeApp-Summary/blob/main/graphics/RezepteAppThumbnail.jpg" alt="Thumbnail" height="360">
+<img src="https://github.com/F-Goldmann/RecipeApp-Summary/blob/main/graphics/RezepteAppThumbnail.jpg" alt="Thumbnail" height="300">
 This is an overview of the main features of my app.
 
 - The UI is developed with **Jetpack Compose**
@@ -20,7 +20,7 @@ _the app is currently only available in german_
 
 ## Examples Gifs
 #### Creation of a new recipe
-<img src="https://github.com/F-Goldmann/RecipeApp-Preview/blob/main/graphics/RezepteApp_CreateRecipe.gif" alt="Create new recipe" width="360">
+<img src="https://github.com/F-Goldmann/RecipeApp-Preview/blob/main/graphics/RezepteApp_CreateRecipe.gif" alt="Create new recipe" width="320">
 
 #### Import, filter and display
-<img src="https://github.com/F-Goldmann/RecipeApp-Preview/blob/main/graphics/RezepteApp_LoadRecipes.gif" alt="Load recipes" width="360">
+<img src="https://github.com/F-Goldmann/RecipeApp-Preview/blob/main/graphics/RezepteApp_LoadRecipes.gif" alt="Load recipes" width="320">
