@@ -18,7 +18,7 @@ _the app is currently only available in german_
   - Sending single recipes as text message and reading such messages to import it
   - Exporting multiple recipes in one file and importing from these files
 
-## Examples Gifs
+## Examples
 #### Creation of a new recipe
 <img src="https://github.com/F-Goldmann/RecipeApp-Preview/blob/main/graphics/RezepteApp_CreateRecipe.gif" alt="Create new recipe" width="320">
 
