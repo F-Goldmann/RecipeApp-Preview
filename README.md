@@ -1,5 +1,5 @@
 <img src="https://github.com/F-Goldmann/RecipeApp-Summary/blob/main/graphics/RezepteAppThumbnail.jpg" alt="Thumbnail" height="300">
-This is an overview of the main features of my app.
+This is an overview of the main features of my app (written in Kotlin).
 
 - The UI is developed with **Jetpack Compose**
 - Data is saved in a local **Room Database**
